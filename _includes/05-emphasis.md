@@ -1,8 +1,7 @@
 1. Strong collaborative skills
 > Able to *facilitate projects and lead*
 2. Knowledge of **Windows** and **Linux OSs** as well as **VMWare**
-> Understanding of commands and familiar with Bash
-
+> Understanding of commands and familiar with Bash  \
 > Utilized __Ubuntu, Fedora, and CentOS__
 3. **Adaptable and quick thinking**
 > Fierce work ethic with a desire to continue learning new skills
