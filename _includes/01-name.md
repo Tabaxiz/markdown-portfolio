@@ -1,1 +1,8 @@
-Replace this with your name, and include a header.
+# Catarina Pottle
+## About Me
+> ### Developing my professional IT skills one day at a time.
+
+# Contact Information
+## Email: 
+## Phone: 
+## LinkedIn:
