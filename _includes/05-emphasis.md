@@ -4,7 +4,7 @@
 > Understanding of commands and familiar with Bash  \
 > Utilized __Ubuntu, Fedora, and CentOS__
 3. **Adaptable and quick thinking**
-> Fierce work ethic with a desire to continue learning new skills
+> Fierce work ethic with a desire to continue learning new skills  \
 > Can work with time constraints and __give %110__
 4. Passion for **volunteerism**
 > Assisted in various organizations from outreach and communication to administrative tasks
