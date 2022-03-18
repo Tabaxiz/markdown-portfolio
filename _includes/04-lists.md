@@ -1,6 +1,9 @@
 List of Favorite things
 1. Pasta
 2. Reading
-3. Movies
-   1. Spiderman (with Tobey Maguire)
-   2. Batman Begins
+   * Manga
+   * Manwha
+4. Movies
+   * Spiderman (with Tobey Maguire)
+   * Batman Begins
+5. Anime (*too many to mention*)
